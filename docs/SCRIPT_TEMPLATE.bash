@@ -2,9 +2,9 @@
 #===========================================================================================
 ## SCRIPT NAME    : [e.g., log_parser.bash]
 ## DESCRIPTION    : [Brief explanation of what the script does]
-## AUTHOR         : [Your Name]
-## DATE CREATED   : [YYYY-MM-DD]
-## USAGE          : ./script_name.bash -t <target_ip> -p <ports>
+## AUTHOR         : [elcaballonegro]
+## DATE CREATED   : [2026-09-28]
+## USAGE          : ./script_name.bash -t (ip) -p
 ##
 ## SECURITY NOTICE:
 ## This tool is created for educational and authorized testing purposes ONLY.
